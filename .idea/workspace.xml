@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1477237-6630-4d1f-82b6-d094f3c42b96" name="Changes" comment="README edit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="39bbe939-cefb-43cf-a0ff-8e734ae0d46d" />
+        <option name="url" value="https://github.com/gvkth/JW_Lab2_7" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OyEsmwCZTWk7rduv7zMGQFnrEf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/FUNIX/JAVA_WEB/Labs/Lab2_7&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.36823934&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1477237-6630-4d1f-82b6-d094f3c42b96" name="Changes" comment="" />
+      <created>1682524631950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682524631950</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Done Lab 2.1">
+      <created>1682743218121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682743218121</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Begin Lab2.2">
+      <created>1682748733760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682748733760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="End Lab2.2">
+      <created>1682757163542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682757163542</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Start Lab2.3">
+      <created>1682784572913</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682784572913</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Start Lab2.3">
+      <created>1682784653255</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682784653255</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add lib Spring">
+      <created>1682785551267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682785551268</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add configuration file: applicationContext.xml&#10;Code: init an ApplicationContext fron config file and use it">
+      <created>1682786332764</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682786332764</updated>
+    </task>
+    <task id="LOCAL-00008" summary="End Lab2.3&#10;+ File hướng dẫn">
+      <created>1682813905927</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682813905927</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Start Lab2.4">
+      <created>1682815013433</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682815013433</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Start Lab2.4">
+      <created>1682817998986</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682817998986</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Completed (đã làm luôn trong Lab2.3)&#10;https://viblo.asia/p/bean-va-applicationcontext-la-gi-trong-spring-boot-Ljy5Vjwj5ra">
+      <created>1682822574568</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682822574568</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Start Lab2.5">
+      <created>1682825092527</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682825092527</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Finished Lab 2.5">
+      <created>1682825594272</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682825594272</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Finished Lab 2.5">
+      <created>1682843763488</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682843763488</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Start Lab 2.6">
+      <created>1682844065050</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682844065050</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Finished Lab 2.6&#10;Nhận xét: không cần build lại source, chỉ cần thay đổi cấu hình, cũng có thể thay đổi class sử dụng của app khi init instance app mới??? Có vẻ chưa hoàn toàn vì trong hàm main vẫn còn phải khai báo class cụ thể trong getBean(...,BaseballCoach.class)">
+      <created>1682845036411</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682845036411</updated>
+    </task>
+    <task id="LOCAL-00017" summary="README edit">
+      <created>1682845529735</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682845529735</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done Lab 2.1" />
+    <MESSAGE value="Begin Lab2.2" />
+    <MESSAGE value="End Lab2.2" />
+    <MESSAGE value="Start Lab2.3" />
+    <MESSAGE value="Add lib Spring" />
+    <MESSAGE value="Add configuration file: applicationContext.xml&#10;Code: init an ApplicationContext fron config file and use it" />
+    <MESSAGE value="End Lab2.3&#10;+ File hướng dẫn" />
+    <MESSAGE value="Start Lab2.4" />
+    <MESSAGE value="Completed (đã làm luôn trong Lab2.3)&#10;https://viblo.asia/p/bean-va-applicationcontext-la-gi-trong-spring-boot-Ljy5Vjwj5ra" />
+    <MESSAGE value="Start Lab2.5" />
+    <MESSAGE value="Finished Lab 2.5" />
+    <MESSAGE value="Start Lab 2.6" />
+    <MESSAGE value="Finished Lab 2.6&#10;Nhận xét: không cần build lại source, chỉ cần thay đổi cấu hình, cũng có thể thay đổi class sử dụng của app khi init instance app mới??? Có vẻ chưa hoàn toàn vì trong hàm main vẫn còn phải khai báo class cụ thể trong getBean(...,BaseballCoach.class)" />
+    <MESSAGE value="README edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="README edit" />
+  </component>
+</project>
